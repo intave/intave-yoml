@@ -1,0 +1,6 @@
+# This is a config file
+person:
+  name: Felix Klauke
+  age: 11
+  # This is my birthday
+  birthday: '22.09.1998'
